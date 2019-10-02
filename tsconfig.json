@@ -1,0 +1,11 @@
+{
+    "compilerOptions": {
+        "baseUrl": ".",
+        "moduleResolution": "node",
+        "paths": {
+            "chai": [ "types/chai" ],
+            "*": [ "node_modules/*" ]
+        },
+        "strict": true
+    }
+}
